@@ -1,9 +1,9 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+
+The objective is to complete the project within time, budget, and scope. For this to happen, we need to utilize agile and lean principles. We will use automation to help us improve the efficiency of project management. By following the initiatives, we can create a web page that meets the business requirements for the company. Project management will have to involve communication in order for the project to be successful.
+
+
 ## Initiative(s)
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
