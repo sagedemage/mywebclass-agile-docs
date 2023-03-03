@@ -117,22 +117,14 @@ business processes to provide realistic scenarios for students to learn technolo
 * [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 * [Task Template](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 
-## My Rough Draft
+## Project Overview
 
-Here is an example of how I initially break down a project; however, I intend to change this in the near future, so that
-i organize my themes by business activity instead of release schedule. Examples of these
-themes include the DevOps and Search Engine Themes.
+The objective is to complete the project within time, budget, and scope. For this to happen, we need to utilize agile and lean principles. We will use automation to help us improve the efficiency of project management. By following the initiatives, we can create a web page that meets the business requirements for the company. Project management will have to involve communication in order for the project to be successful.
 
-In practice, it is commonplace to adapt project documentation to meet evolving project needs early on in the process.
-Therefore, please do not feel obligated to follow my approach. Instead, view it as an example of how to develop your own
-documentation, based on your preferred methodology for breaking down the problem. Should you find that it does not meet
-your needs, it can be adjusted, given that we are still in the early stages of the project.
+# My Documenation
 
-At this juncture, the efficacy of the documentation is measured by how well it enables us to manage the project. We will
-review this effectiveness before the next iteration of the project.
-# Your  plan should replace the content below
-
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+* [Optimize Workflow](documentation/theme_1/theme_optimize_workflow.md)
+* [Effective Communication](documentation/theme_2/theme_effective_communication.md)
 
 ## Release Schedule
 
