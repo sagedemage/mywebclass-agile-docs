@@ -1,7 +1,7 @@
-# Epic: Setup Automated Tests with CI/CD
+# Epic: Automatically Run Unit Tests
 
 ## Description
-We using GitHub workflows to implement CI/CD.
+We are using GitHub workflows to implement CI/CD.
 
 ## Tasks
 * A team member has to configure GitHub workflows to implement CI/CD.

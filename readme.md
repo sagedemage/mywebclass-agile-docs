@@ -121,7 +121,7 @@ business processes to provide realistic scenarios for students to learn technolo
 
 The objective is to complete the project within time, budget, and scope. For this to happen, we need to utilize agile and lean principles. We will use automation to help us improve the efficiency of project management. By following the initiatives, we can create a web page that meets the business requirements for the company. Project management will have to involve communication in order for the project to be successful.
 
-# My Documenation
+# My Documentation
 
 * [Optimize Workflow](documentation/theme_1/theme_optimize_workflow.md)
 * [Effective Communication](documentation/theme_2/theme_effective_communication.md)
