@@ -1,4 +1,4 @@
-# Initiative: Code Review
+# Epic: Code Review
 
 ## Description
 Code reviews are important to catch bugs and coding errors, and maintain high-quality code. 
