@@ -1,4 +1,4 @@
-# Epic: Task Assingment
+# Epic: Task Assignment
 
 ## Description
 Task assignment helps the team know who is responsible for which feature, bugfix, or etc.
