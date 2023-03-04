@@ -6,3 +6,7 @@ Optimizing workflow within a team helps to effectively allocate resources on peo
 ## Initiative(s)
 * [Setup Automated Tests with CI/CD](initiative_1/initiative_automated_testing.md)
 * [Utilize a Kanban Board (GitHub Projects).](initiative_2/initiative_kanban_board.md)
+
+## Test Plan
+Unit tests have to be implemented for each feature of the application. Once a few 
+amount of unit tests are created, GitHub workflows have to be configured to implement CI/CD.
