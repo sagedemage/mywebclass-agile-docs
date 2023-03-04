@@ -1,4 +1,4 @@
-# Initiative: Identify Problems
+# Epic: Identify Problems
 
 ## Description
 The team can identify problems so they can be addressed or resolved.

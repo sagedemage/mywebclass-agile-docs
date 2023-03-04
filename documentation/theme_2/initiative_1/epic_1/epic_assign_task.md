@@ -6,5 +6,5 @@ Task assignment helps the team know who is responsible for which feature, bugfix
 ## Tasks
 * A team member has to assign himself/herself on a task to work on.
 
-## Stories
+## User Stories
 * [project_manager](stories/story_project_manager.md)
