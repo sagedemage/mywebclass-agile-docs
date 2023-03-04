@@ -5,5 +5,5 @@ We want to setup automated testing to improve effiency of testing the applicatio
 CI/CD.
 
 ## Epics
-* [Write Unit Tests](epics/epic_unit_tests.md)
+* [Write Unit Tests](epic/epic_unit_tests.md)
 * [Automatically Run Unit Tests](epics/epic_automate_unit_tests.md)
